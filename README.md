@@ -20,4 +20,3 @@ unidos-pelo-bem/
 Como usar:
 1. Baixe e extraia este ZIP.
 2. Abra `index.html` no seu navegador.
-3. Para publicar, crie um repositório público no GitHub e envie os arquivos.
